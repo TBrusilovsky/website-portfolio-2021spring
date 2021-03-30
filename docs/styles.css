@@ -42,3 +42,12 @@ a {
   padding: 8px;
   background-color: #dddddd;
 }
+div {
+  padding: 8px;
+  background: #6699cc;
+  margin:5px;
+  text-align: center;
+}
+.subtext {
+  display: block;
+}
