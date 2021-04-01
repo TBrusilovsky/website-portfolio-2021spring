@@ -28,18 +28,21 @@ a, h2{
   float: left;
   color: #f2f2f2;
   text-align: center;
-  padding: 14px 16px;
+  padding: 14px 20px;
   text-decoration: none;
   font-size: 17px;
+  border-radius: 8px;
+  margin:3px;
 }
-.topheader h2 {
+.topbar h2 {
   float: left;
   color: #f2f2f2;
   text-align: center;
-  padding: 14px 16px;
+  padding: 14px 30px;
   text-decoration: none;
   font-size: 17px;
-  margin:0;
+  margin:3px;
+  border-radius: 10px;
 }
 .topbar a:hover {
   background: rgb(102,170,204,1);
@@ -48,7 +51,7 @@ a, h2{
 .active {
   background: rgb(102,170,204,1);
   color: white;
-}
+} 
 
 .subtext {
   display: block;
