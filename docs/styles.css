@@ -3,7 +3,7 @@
 }
 
 body {
-  background: url("images/background.jpg") no-repeat center center fixed;
+  background: #1B5691;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
