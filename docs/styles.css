@@ -84,6 +84,13 @@ a, h2{
   margin: 16px auto;
 }
 
+.description {
+  color: #f2f2f2;
+  text-decoration: none;
+  font-size: 17px;
+  margin: 20px 15px auto;
+}
+
 .projectlink {
   background: None;
   color: #f2f2f2;
