@@ -9,9 +9,10 @@
   <body>
     <script>
         function playAudio(url) {
-            new Audio(url).play(); //a function to play audio files
+            new Audio(url).play(); //a function to play linked audio files
         }
     </script>
+
     <div class='headcontainer'>
       <ul class='topbar'>
         <li class='topheader'><h2 class="header">Other Projects</h2></li>
@@ -29,6 +30,12 @@
             <a class ="projectlink" href="https://github.com/TBrusilovsky/Visual-Argument-Large-File.git">View Repository</a>
         </div>
 
+        <div class="projectBox" id="audio">
+            <h3 class="type">Composing Digital Media Soundscape</h3>
+            <img src="images/soundscape.png" class="projectPicture" alt="A short description of the contents of the audio file.">
+            <a class ="projectlink" onclick="playAudio('Files/soundscape.mp3')">Listen</a>
+        </div>
+
         <div class="projectBox" id="cookies">
             <h3 class="type">Thomas's Perfect Chocolate Chip Cookies</h3>
             <img src="images/cookies.jpeg" class="projectPicture" alt="A tray of amazing, chewy, chocolate chip cookies.">
@@ -39,12 +46,6 @@
             <h3 class="type">Thomas's Almost Foolproof Cheesecake</h3>
             <img src="images/cheesecake.jpeg" class="projectPicture" alt="A beautiful cheesecake.">
             <a class ="projectlink" href="Files/cheesecake.txt">View Recipe</a>
-        </div>
-
-        <div class="projectBox" id="audio">
-            <h3 class="type">Composing Digital Media Soundscape</h3>
-            <img src="images/soundscape.png" class="projectPicture" alt="A short description of the contents of the audio file.">
-            <a class ="projectlink" onclick="playAudio('Files/soundscape.mp3')">Listen</a>
         </div>
 
     </div>
