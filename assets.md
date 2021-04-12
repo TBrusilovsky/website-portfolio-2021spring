@@ -1,3 +1,1 @@
-Nothing added since concept stage. View that for 
-
-https://pixabay.com/photos/tree-field-cornfield-nature-247122/ used for background
+This website contains exclusivly content created by myself. All code was written by me, all screenshots and photos taken by me, all writing was written by me. 
